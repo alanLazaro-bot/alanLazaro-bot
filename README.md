@@ -4,24 +4,35 @@
 
 ### Hi there 👋 I´m Alan
 
-<!--
-**alanLazaro-bot/alanLazaro-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🧵💻Diseñador de indumentaria devenido en programador.
 
 
+- 🔭 Me encuentro desarrollando mis conocimientos y habilidades como Full Stack Developer
+- 🌱 Actualmente estoy aprendiendo TypeScript
+- Algunas de los lenguajes y herramientas que manejo:
 
-- 🔭 I’m currently working on my skills as a Full Stack Developer
-- 🌱 I’m currently learning ...
 *HTML
 *CSS
 *JavaScript
-*
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*React
+*NodeJs
+*MySQL
+
+ Y algunos datos random:
+
+- 🎮 Soy muy gamer. 
+- 🎞 Me gusta el Cine y la música.
+- 👨‍🏫 Soy asistente de cátedra en la materia Diseño de Accesorios I-II en la UP
+
+
+
+ 📫 How to reach me
+
+Linkedin: https://www.linkedin.com/in/alan-l%C3%A1zaro-4a99b1193/
+Instagram: https://www.instagram.com/minombrenoestadisponible07/
+CodeSandbox: https://codesandbox.io/u/alanLazaro-bot
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanLazaro-bot&show_icons=true&theme=radical)
