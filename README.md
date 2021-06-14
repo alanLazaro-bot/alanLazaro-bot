@@ -52,9 +52,15 @@
 
 ## Actividad en Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanLazaro-bot&show_icons=true&theme=radical)
+<a href="https://github.com/alanLazaro-bot/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanLazaro-bot&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/alanLazaro-bot/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanLazaro-bot&layout=compact&theme=radical" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanLazaro-bot&layout=compact&theme=radical)
+
+
 
 
 
