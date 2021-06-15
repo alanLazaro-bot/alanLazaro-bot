@@ -7,8 +7,7 @@
 
 
 - 👨‍💻 Full Stack Developer (Digital House)
-- 🌱 Sigo desarrollando mis conocimientos y sumando lenguajes.
--  Actualmente estoy aprendiendo TypeScript.
+- 🌱 Sigo desarrollando mis conocimientos y sumando lenguajes. Ahora: TypeScript.
 
 ##  Lenguajes y herramientas que manejo
 
@@ -34,7 +33,7 @@
 - 🎮 Part time gamer 
 - 🎞 Fan del Cine y la música
 - :computer: Estudié ingeniería en sistemas
-- 👨‍🏫 Me recibí como diseñador de indumentaria y soy asistente de cátedra en la carrera en la Universidad de Palermo
+- 👨‍🎓 Me recibí como diseñador de indumentaria y soy asistente de cátedra en la carrera en la Universidad de Palermo
 
 
 
