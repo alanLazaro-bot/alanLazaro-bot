@@ -2,14 +2,14 @@
 
 
 
-### Hi there 👋 I´m Alan
+### Hola, soy Alan 👋
 ---
 
 
-- 🔭 Me encuentro desarrollando mis conocimientos y habilidades como Full Stack Developer
-- 🌱 Actualmente estoy aprendiendo TypeScript
+- 🔭 Full Stack Developer (Digital House)
+- 🌱 Sigo desarrollando mis conocimientos y sumando lenguajes. Actualmente estoy aprendiendo TypeScript.
 
-##  Algunos lenguajes y herramientas que manejo
+##  Lenguajes y herramientas que manejo
 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,13 +27,14 @@
 <br />
 <br />
 
- ## Datos random
+ ## Sobre mi
 
 
-- 🎮 Soy muy gamer. 
-- 🎞 Me gusta el Cine y la música.
-- :kimono: Diseñador de indumentaria
-- 👨‍🏫 Soy asistente de cátedra en la materia Diseño de Accesorios I-II en la UP
+- 🎮 Part time gamer 
+- 🎞 Fan del Cine y la música
+- :kimono: Estudié ingeniería en sistemas
+- 👨‍🏫 Me recibí como diseñador de indumentaria y soy asistente de cátedra en la carrera en la Universidad de Palermo
+
 
 
 
