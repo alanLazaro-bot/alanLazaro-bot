@@ -5,7 +5,7 @@
 ### Hi there 👋 I´m Alan
 ---
 
-- :kimono: Diseñador de indumentaria devenido en programador.
+
 - 🔭 Me encuentro desarrollando mis conocimientos y habilidades como Full Stack Developer
 - 🌱 Actualmente estoy aprendiendo TypeScript
 
@@ -32,6 +32,7 @@
 
 - 🎮 Soy muy gamer. 
 - 🎞 Me gusta el Cine y la música.
+- :kimono: Diseñador de indumentaria
 - 👨‍🏫 Soy asistente de cátedra en la materia Diseño de Accesorios I-II en la UP
 
 
