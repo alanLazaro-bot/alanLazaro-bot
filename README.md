@@ -42,7 +42,7 @@
 
 [<img align="left" alt="Alan | LinkedIn" width="22px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623686072~hmac=42f007ca415e7ec9eda21c66ea7da57e" />][linkedin]
 [<img align="left" alt="Alan | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
-[<img align="left" alt="Alan | Codesandbox" width="22px" src="https://image.flaticon.com/icons/png/512/1006/1006363.png" />][codesandbox]
+[<img align="left" alt="Alan | Codesandbox" width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--4W0mc3Tl--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/3772/2e95d533-d5e7-43a0-bef5-f75f3a2781d4.png" />][codesandbox]
 
 <br />
 <br />
