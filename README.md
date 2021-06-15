@@ -32,7 +32,7 @@
 
 - 🎮 Part time gamer 
 - 🎞 Fan del Cine y la música
-- :kimono: Estudié ingeniería en sistemas
+- :computer: Estudié ingeniería en sistemas
 - 👨‍🏫 Me recibí como diseñador de indumentaria y soy asistente de cátedra en la carrera en la Universidad de Palermo
 
 
