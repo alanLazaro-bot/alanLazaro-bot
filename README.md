@@ -6,8 +6,9 @@
 ---
 
 
-- 🔭 Full Stack Developer (Digital House)
-- 🌱 Sigo desarrollando mis conocimientos y sumando lenguajes. Actualmente estoy aprendiendo TypeScript.
+- 👨‍💻 Full Stack Developer (Digital House)
+- 🌱 Sigo desarrollando mis conocimientos y sumando lenguajes.
+-  Actualmente estoy aprendiendo TypeScript.
 
 ##  Lenguajes y herramientas que manejo
 
