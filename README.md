@@ -63,7 +63,7 @@
 
 
 [instagram]: https://www.instagram.com/minombrenoestadisponible07/
-[linkedin]: https://www.linkedin.com/in/alan-l%C3%A1zaro-4a99b1193/
+[linkedin]: https://www.linkedin.com/in/alanjlazaro/
 [codesandbox]: https://codesandbox.io/u/alanLazaro-bot
 
 
