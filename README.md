@@ -40,9 +40,7 @@
 
 ## Contacto
 
-[<img align="left" alt="Alan | LinkedIn" width="22px" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" />][linkedin]
-[<img align="left" alt="Alan | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
-[<img align="left" alt="Alan | Codesandbox" width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--4W0mc3Tl--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/3772/2e95d533-d5e7-43a0-bef5-f75f3a2781d4.png" />][codesandbox]
+
 
 <br />
 <br />
