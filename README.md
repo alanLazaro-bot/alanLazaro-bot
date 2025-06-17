@@ -6,8 +6,8 @@
 ---
 
 
-- 👨‍💻 Full Stack Developer (Digital House)
-- 🌱 Sigo desarrollando mis conocimientos y sumando lenguajes. Ahora: TypeScript.
+- 👨‍💻 FE Developer (Mercado Libre)
+- 
 
 ##  Lenguajes y herramientas que manejo
 
